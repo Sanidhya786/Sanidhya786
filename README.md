@@ -2,8 +2,9 @@
 
 🔭 I’m currently working on a very secret project <br>  
 👯 I’m looking to collaborate on some awesome projects <br>  
-🤝 I’m looking for help with chat APIs <br>  
-🌱 I’m currently learning JavaScript <br>  
+🤝 I’m looking for help with chat APIs <br>
+<!--
+🌱 I’m currently learning JavaScript <br>  --->
 💬 Ask me about MERN stack & full-stack development <br>  
 ⚡ Fun fact: I debug faster with coffee ☕  
 
@@ -18,7 +19,7 @@
 
 ---
 
-<!-- # 💻 Tech Stack
+# 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -40,7 +41,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) --->
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ---
 
@@ -50,9 +51,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanidhya786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
+<!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sanidhya786&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Sanidhya786&theme=radical&no-frame=false&no-bg=false&margin-w=4) --->
 
 ---
 
